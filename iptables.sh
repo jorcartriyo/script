@@ -1,3 +1,4 @@
+#Script libre con comandos de iptables
 #! /bin/bash
 #Vaciamos las reglas
 clear
